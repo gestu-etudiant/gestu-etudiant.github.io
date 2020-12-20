@@ -1,1 +1,0 @@
-<script type='text/javascript'>document.location.replace('php/home.php');</script>
